@@ -55,7 +55,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; 2021 Nicholas Berlette. All rights reserved. <a href=\"https://github.com/\" rel=\"noopener\">now</a>"
+        "content": "&copy; 2021 Nicholas Berlette. All rights reserved. <a href=\"https://github.com/\" rel=\"noopener\"></a>"
     },
     "title": "Stackbit Fjord Theme",
     "domain": "https://magnificent-rabbit-01b87.netlify.app",
